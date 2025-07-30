@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded",function(){
         stats_cards.innerHTML = cardsData.map(
             data => `
                     <div class="cards">
-                    <h4>${data.label}</h4>
+                    <h3>${data.label}:</h3>
                     <p>${data.value}</p>
                     </div>
                 `
