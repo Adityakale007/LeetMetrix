@@ -81,10 +81,12 @@ Allow users to download their profile stats as a **PDF** or **image**.
 
 # 📸 Screenshots
 
-<img width="1363" height="713" alt="Screenshot 2025-07-30 at 5 23 13 PM" src="https://github.com/user-attachments/assets/5b5cbca1-deb0-4bc1-852a-5f49fc9c938c" />
+
+<img width="1390" height="648" alt="Screenshot 2025-07-30 at 11 50 33 PM" src="https://github.com/user-attachments/assets/18396508-a538-4932-86a2-ae29001cd010" />
 
 
-<img width="1368" height="715" alt="Screenshot 2025-07-30 at 5 23 40 PM" src="https://github.com/user-attachments/assets/a174ab6c-4c17-43de-93de-25c9766f7cf9" />
+<img width="1384" height="653" alt="Screenshot 2025-07-30 at 11 51 11 PM" src="https://github.com/user-attachments/assets/2c01360b-c75b-4064-ab45-1adfda8899c1" />
+
 
 
 
